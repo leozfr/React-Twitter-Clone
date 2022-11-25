@@ -1,3 +1,6 @@
+# ScreenShot
+![Reactjs Twitter Clone with Firebase Login](/screenshots/loginscreen.png?raw=true "Login Screen")
+![Reactjs Twitter Clone with Firebase Home](/screenshots/homepage.png?raw=true "Home Screen")
 # React-Twitter-Clone
 Twitter clone with firebase gmail login and firestore database
 
